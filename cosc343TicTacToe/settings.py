@@ -7,8 +7,8 @@ __date__ = "July 2022"
 
 game_settings = {
 
-   "player1File": "my_agent.py", # name of the agent file (replace with my_agent.py when your agent is ready)
-   "player2File": "human_agent.py"
+   "player1File": "human_agent.py", # name of the agent file (replace with my_agent.py when your agent is ready)
+   "player2File": "random_agent.py"
 }
 
 
